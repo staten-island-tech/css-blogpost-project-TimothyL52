@@ -1,18 +1,28 @@
+.title {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 50px;
+}
 .blog {
   background-color: chartreuse;
-  padding: 5px;
-  margin-top: 120px;
+  padding: 100px;
+  margin-top: 100px;
   margin-left: 200px;
   margin-right: 200px;
   border: solid crimson;
   text-align: center;
+  background-image: url(image/mick-haupt-RBNJ5DTvjTc-unsplash.jpg);
+  background-position: center;
 }
 span {
-  color: blueviolet;
+  color: aqua;
 }
 .post-headers {
-  color: beige;
+  color: blueviolet;
+}
+.post-image {
 }
 body {
   background-color: burlywood;
+  font-family: "Lato", sans-serif;
 }
