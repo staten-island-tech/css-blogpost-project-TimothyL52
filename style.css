@@ -11,8 +11,6 @@
   margin-right: 200px;
   border: solid crimson;
   text-align: center;
-  background-image: url(image/mick-haupt-RBNJ5DTvjTc-unsplash.jpg);
-  background-position: center;
 }
 span {
   color: aqua;
@@ -21,6 +19,17 @@ span {
   color: blueviolet;
 }
 .post-image {
+  border: solid coral;
+  padding: 350px;
+  background-position: top;
+}
+#city {
+  background-image: url(image/mick-haupt-RBNJ5DTvjTc-unsplash.jpg);
+}
+#alphabet {
+}
+
+#brain {
 }
 body {
   background-color: burlywood;
