@@ -2,36 +2,54 @@
   text-align: center;
   font-weight: bolder;
   font-size: 50px;
+  position: absolute;
+  top: 25px;
+  left: 50px;
+  color: #212121;
 }
 .blog {
-  background-color: chartreuse;
+  background-color: #cddc39;
   padding: 100px;
   margin-top: 100px;
   margin-left: 200px;
   margin-right: 200px;
-  border: solid crimson;
-  text-align: center;
+  border: solid #795548;
 }
-span {
-  color: aqua;
+span { figure out some way to use this maybe?
 }
 .post-headers {
-  color: blueviolet;
+  color: #757575;
+  position: relative;
+  figure this positioning thing out too
 }
 .post-image {
-  border: solid coral;
-  padding: 350px;
-  background-position: top;
+  border: solid #BDBDBD;
+  padding: 400px;
+  position: relative;
 }
+.post-link {
+ figure out how to change this font-family: 
+ 
+}
+.preview-text {
+  same here 
+  use this color maybe #F0F4C3 or maybe #757575
+}
+
 #city {
   background-image: url(image/mick-haupt-RBNJ5DTvjTc-unsplash.jpg);
+  background-position: top;
 }
 #alphabet {
+  background-image: url(image/bernard-hermant--zlKan0Zcrg-unsplash.jpg);
+  background-position: 160vh 109vw;
 }
 
 #brain {
+  background-image: url(image/fakurian-design-58Z17lnVS4U-unsplash.jpg);
+  background-position: center;
 }
 body {
-  background-color: burlywood;
+  background-color: #AFB42B;
   font-family: "Lato", sans-serif;
 }
