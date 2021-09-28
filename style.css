@@ -14,26 +14,35 @@
   margin-left: 200px;
   margin-right: 200px;
   border: solid #795548;
+  position: relative;
 }
 span { figure out some way to use this maybe?
 }
 .post-headers {
   color: #757575;
-  position: relative;
-  figure this positioning thing out too
+  font-size: 50px;
+  position: absolute;
+  bottom: 90%;
+  left: 30%;
+}
+#subheader {
+  font-size: 35px;
+  position: absolute;
+  left: 50%;
+
 }
 .post-image {
   border: solid #BDBDBD;
   padding: 400px;
-  position: relative;
 }
 .post-link {
- figure out how to change this font-family: 
- 
+font-family:'PT Sans', sans-serif; 
+font-size: 20px;
 }
 .preview-text {
-  same here 
-  use this color maybe #F0F4C3 or maybe #757575
+  font-size: 25px;
+color: #212121
+font-family:'PT Sans', sans-serif;
 }
 
 #city {
