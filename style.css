@@ -14,35 +14,32 @@
   margin-left: 200px;
   margin-right: 200px;
   border: solid #795548;
-  position: relative;
 }
-span { figure out some way to use this maybe?
+span {
+  color: #212121;
 }
 .post-headers {
   color: #757575;
   font-size: 50px;
-  position: absolute;
-  bottom: 90%;
-  left: 30%;
+  text-align: center;
+  margin: 0px;
 }
 #subheader {
-  font-size: 35px;
-  position: absolute;
-  left: 50%;
-
+  margin-bottom: 20px;
+  font-size: 45px;
 }
 .post-image {
-  border: solid #BDBDBD;
+  border: solid #bdbdbd;
   padding: 400px;
 }
 .post-link {
-font-family:'PT Sans', sans-serif; 
-font-size: 20px;
+  font-family: "PT Sans", sans-serif;
+  font-size: 20px;
 }
 .preview-text {
   font-size: 25px;
-color: #212121
-font-family:'PT Sans', sans-serif;
+  color: #212121;
+  font-family: "PT Sans", sans-serif;
 }
 
 #city {
@@ -59,6 +56,6 @@ font-family:'PT Sans', sans-serif;
   background-position: center;
 }
 body {
-  background-color: #AFB42B;
+  background-color: #afb42b;
   font-family: "Lato", sans-serif;
 }
